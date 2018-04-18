@@ -1,0 +1,11 @@
+1、BoardSever_IP:114.119.4.74:5907
+   Port:222
+2、x86 Board:192.168.1.146 BMC:149(user:nanweijia/pwd:nanweijia)
+桌面打开终端：CTRL+ALT+T
+3、arm64 Board:192.168.1.184 BMC:142(user:nanweijia/pwd:nanweijia)
+4、AI项目专用VNC中转服务端口：114.119.4.74:55940/55941
+   PWD:Lab12#$
+
+
+
+cp ~/tmp/xorg.conf.nvidia-xconfig-original /etc/X11/xorg.conf
